@@ -48,7 +48,7 @@ Knitting Clock:
 
 **John Maeda 12 o’clocks**
 
-![John Maeda Clock](http://cmuems.com/2016/60212/wp-content/uploads/2016/09/maeda-09.gif)
+![John Maeda Clock](time-assets/maeda-all.gif)
   <img src="http://cmuems.com/2016/60212/wp-content/uploads/2016/09/maeda-09.gif" width="200" />
 
 [More Info](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
