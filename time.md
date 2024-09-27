@@ -32,17 +32,20 @@ Today, computer networks continue to drive the development of technologies to sy
 
 ## Different Design Approaches to Time
 
-Time zones clock displays time across geography.
+The time zones clock displays time across geography.
 
 ![Time Zones Clock](https://i1.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/dzn_The-bend-hand-10.jpg)
 
 [Source](http://www.dezeen.com/2010/07/26/the-bent-hands-by-giha-woo-and-shingoeun/)
 
-Knitting Clock displays time as a 3d tangible knitted form:
+Knitting Clock by Sirene Lisewilhelmsen displays time as a 3d tangible knitted form:
 
 ![Knitting Clock](https://i2.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/Elise-1.jpg)
 
 [Source](http://www.sirenelisewilhelmsen.com)
+
+[Super Local](https://cwandt.com/products/superlocal?variant=41099183128732) by Brooklyn based designers CWT is a personalizable clock where daily events can be added to the face. See more of their incredible work on time [here.](https://cwandt.com/collections/time)
+![superlocal](time-assets/superlocal_cwandt.gif)
 
 ## Software Clocks
 
@@ -55,7 +58,7 @@ John Maeda famously creates some early software clocks that have now ported to p
 
 - **Dot Clock by Vendian**
 This example uses one dot to represent every second in the day:
-![Dot Clock](https://wp.nyu.edu/creativecodings22/wp-content/uploads/sites/23499/2022/02/Screen-Shot-2022-02-27-at-9.44.49-PM-1024x353.png)
+![Dot Clock](time-assets/dot.png)
 
 - **Last Clock**  
 <a href="https://player.vimeo.com/video/27975734" width="720" height="405" frameborder="0" allowfullscreen>The last clock</a> uses a technique called [slit scanning](https://www.youtube.com/watch?v=YqVbuMPIRwY) to make a clock out of camera pixels taken at a frequency of seconds, minutes and hours.
@@ -67,18 +70,20 @@ This example uses one dot to represent every second in the day:
 
 - Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  [Video documentation is here.](https://player.vimeo.com/video/11164881) 
 ![sweeper](time-assets/sweeper.jpg)
-- **TEHCHING HSIEH** is a pioneer performance artist who has long explored time. [See his official Website](https://www.tehchinghsieh.com/) or [video on his work.](https://www.youtube.com/embed/FsF-4UJjTaQ).
-![Teching](time-assets/Tehching.jpg)His Time Clock Piece (One Year Performance 1980-1981) is a durational performance of Hsieh punching time cards into an industrial time-clock everyday on the hour for one year. Hsieh’s performance took place privately in his small New York studio, and was documented with a 16mm film camera, positioned ahead of Hsieh and the industrial time-clock. On every hour when Hsieh punches the time-clock, a single frame is taken on the film, amounting to 24 stills a day and 8760 in a year. The stills were compressed into a 6 minute silent time-lapse film, flashing 24 frames per second, a direct correspondence to the cultural measure of time. 
 
-**Felix Gonzalez-Torres: ["Untitled" (Perfect Lovers) 1991](https://www.moma.org/collection/works/81074)**
+
+- **TEHCHING HSIEH** is a pioneer performance artist who has long explored time. [See his official Website](https://www.tehchinghsieh.com/) or [video on his work.](https://www.youtube.com/embed/FsF-4UJjTaQ). His Time Clock Piece (One Year Performance 1980-1981) is a durational performance of Hsieh punching time cards into an industrial time-clock everyday on the hour for one year. Hsieh’s performance took place privately in his small New York studio, and was documented with a 16mm film camera, positioned ahead of Hsieh and the industrial time-clock. On every hour when Hsieh punches the time-clock, a single frame is taken on the film, amounting to 24 stills a day and 8760 in a year. The stills were compressed into a 6 minute silent time-lapse film, flashing 24 frames per second, a direct correspondence to the cultural measure of time.
+![Teching](time-assets/Tehching.jpg)
+
+- **Felix Gonzalez-Torres: ["Untitled" (Perfect Lovers) 1991](https://www.moma.org/collection/works/81074)**
 
 Initially set to the same time, these identical battery-powered clocks will eventually fall out of sync, or may stop entirely. Conceived shortly after Gonzalez-Torres’s partner was diagnosed with AIDS, this work uses everyday objects to track and measure the inevitable flow of time. When one of the clocks stops or breaks, they can both be reset, thereby resuming perfect synchrony.
 
-![Perfect Lovers](https://wp.nyu.edu/creativecodings22/wp-content/uploads/sites/23499/2022/02/Screen-Shot-2022-02-27-at-9.48.14-PM-1024x631.png)
-
-A well-known ‘crowdsourced’ clock is Christian Marclay’s **[The Clock](http://en.wikipedia.org/wiki/The_Clock_%282010_film%29)**, a 24-hour film made up of six or seven thousand clips, each of which either says or displays the (actual) time of day or makes a cogent reference to time.
+- A well-known ‘crowdsourced’ clock is Christian Marclay’s **[The Clock](http://en.wikipedia.org/wiki/The_Clock_%282010_film%29)**, a 24-hour film made up of six or seven thousand clips, each of which either says or displays the (actual) time of day or makes a cogent reference to time.
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
+
+![The clock](time-assets/marclay.jpg).
 
 See many more examples here:
 - Golan Levin, [Visualizing Time](http://golancourses.net/2015/lectures/visualizing-time/)
