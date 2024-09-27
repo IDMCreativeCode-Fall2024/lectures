@@ -47,45 +47,68 @@ Knitting Clock by Sirene Lisewilhelmsen displays time as a 3d tangible knitted f
 [Super Local](https://cwandt.com/products/superlocal?variant=41099183128732) by Brooklyn based designers CWT is a personalizable clock where daily events can be added to the face. See more of their incredible work on time [here.](https://cwandt.com/collections/time)
 ![superlocal](time-assets/superlocal_cwandt.gif)
 
+**12 is Arbitrary!**
+
+It’s worth remembering that the convention that we use 12 (or 24) hour time is totally arbitrary — an artifact of ancient Egyptian astronomy. Other systems have been used and proposed. For example, until quite recently, a six-hour day was used in Thailand. During the French Revolution, when the metric system was invented, people seriously proposed decimal time.
+
+Here’s a decimal clock from the late 1700s:
+
+![Decimal Clock](https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Decimal_Clock_face_by_Pierre_Daniel_Destigny_1798-1805.jpg/1920px-Decimal_Clock_face_by_Pierre_Daniel_Destigny_1798-1805.jpg)
+
+&nbsp;
+
+We see this again in the 10-Hour Flux Clock by George Maciunas (1969):
+
+![10-Hour Flux Clock](https://tigerloaf.wordpress.com/wp-content/uploads/2012/11/robert-watts-10-hour-flux-clock-ca-1969.jpg)
+
+
 ## Software Clocks
 
 - **John Maeda 12 o’clocks**
 John Maeda famously creates some early software clocks that have now ported to p5 js thanks to Shiffman and community. [See the code here.](https://codingtrain.github.io/12oclocks/)
+
 ![John Maeda Clock](time-assets/maeda-all.gif)
+
 [More info on this work](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
 
 - **Colour Clock** The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. 
 
 - **Dot Clock by Vendian**
 This example uses one dot to represent every second in the day:
+
 ![Dot Clock](time-assets/dot.png)
 
 - **Last Clock**  
 <a href="https://player.vimeo.com/video/27975734" width="720" height="405" frameborder="0" allowfullscreen>The last clock</a> uses a technique called [slit scanning](https://www.youtube.com/watch?v=YqVbuMPIRwY) to make a clock out of camera pixels taken at a frequency of seconds, minutes and hours.
 - This twitter clock, **[All the Minutes](http://alltheminutes.com/)**, that is now retired of course, was comprised of tweets about the current time.
-- Sam Lavigne is an artist known for his political art, makes a clock that counts the time served by the prison population in the USA.  
+- Sam Lavigne is an artist known for his political art, makes a clock that counts the time served by the prison population in the USA. 
 [21092 Millennia, 8 Centuries, 49 Years](https://lav.io/projects/21092-millennia-8-centuries-49-years)
 
 ## Time and Labor in Art
 
-- Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  [Video documentation is here.](https://player.vimeo.com/video/11164881) 
+- Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  [Video documentation is here.](https://player.vimeo.com/video/11164881)
+
 ![sweeper](time-assets/sweeper.jpg)
 
 
-- **TEHCHING HSIEH** is a pioneer performance artist who has long explored time. [See his official Website](https://www.tehchinghsieh.com/) or [video on his work.](https://www.youtube.com/embed/FsF-4UJjTaQ). His Time Clock Piece (One Year Performance 1980-1981) is a durational performance of Hsieh punching time cards into an industrial time-clock everyday on the hour for one year. Hsieh’s performance took place privately in his small New York studio, and was documented with a 16mm film camera, positioned ahead of Hsieh and the industrial time-clock. On every hour when Hsieh punches the time-clock, a single frame is taken on the film, amounting to 24 stills a day and 8760 in a year. The stills were compressed into a 6 minute silent time-lapse film, flashing 24 frames per second, a direct correspondence to the cultural measure of time.
+- **TEHCHING HSIEH** is a pioneer performance artist who has long explored time. [See his official Website](https://www.tehchinghsieh.com/) or [video on his work.](https://www.youtube.com/embed/FsF-4UJjTaQ). His Time Clock Piece (One Year Performance 1980-1981) is a durational performance of Hsieh punching time cards into an industrial time-clock everyday on the hour for one year. Hsieh’s performance took place privately in his small New York studio, and was documented with a 16mm film camera, positioned ahead of Hsieh and the industrial time-clock. On every hour when Hsieh punches the time-clock, a single frame is taken on the film, amounting to 24 stills a day and 8760 in a year. The stills were compressed into a 6 minute silent time-lapse film, flashing 24 frames per second, a direct correspondence to the cultural measure of time.  
+
 ![Teching](time-assets/Tehching.jpg)
 
 - **Felix Gonzalez-Torres: ["Untitled" (Perfect Lovers) 1991](https://www.moma.org/collection/works/81074)**
+
+![perfect lovers](time-assets/Perfect_Lovers.jpg)  
 
 Initially set to the same time, these identical battery-powered clocks will eventually fall out of sync, or may stop entirely. Conceived shortly after Gonzalez-Torres’s partner was diagnosed with AIDS, this work uses everyday objects to track and measure the inevitable flow of time. When one of the clocks stops or breaks, they can both be reset, thereby resuming perfect synchrony.
 
 - A well-known ‘crowdsourced’ clock is Christian Marclay’s **[The Clock](http://en.wikipedia.org/wiki/The_Clock_%282010_film%29)**, a 24-hour film made up of six or seven thousand clips, each of which either says or displays the (actual) time of day or makes a cogent reference to time.
 
-[Watch on YouTube](https://www.youtube.com/watch?v=0gSwtr3E4Fo)
+![The clock](time-assets/marclay.jpg)  
 
-![The clock](time-assets/marclay.jpg).
+[Watch on YouTube](https://www.youtube.com/watch?v=0gSwtr3E4Fo)  
+
 
 See many more examples here:
-- Golan Levin, [Visualizing Time](http://golancourses.net/2015/lectures/visualizing-time/)
+- Golan Levin, [Visualizing Time](https://github.com/golanlevin/lectures/tree/master/lecture_clock)
 - Paolo Perdicini, [Visualizing Time](http://cmuems.com/2013/b/visualizing-time/)
 
