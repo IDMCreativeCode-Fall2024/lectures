@@ -49,8 +49,9 @@ Knitting Clock displays time as a 3d tangible knitted form:
 - **John Maeda 12 o’clocks**
 John Maeda famously creates some early software clocks that have now ported to p5 js thanks to Shiffman and community. [See the code here.](https://codingtrain.github.io/12oclocks/)
 ![John Maeda Clock](time-assets/maeda-all.gif)
-  <img src="http://cmuems.com/2016/60212/wp-content/uploads/2016/09/maeda-09.gif" width="200" />
 [More info on this work](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
+
+- **Colour Clock** The [Colour Clock](http://www.thecolourclock.com/) displays the current time as a hexadecimal color. Hours = red, minutes = green, seconds = blue. 
 
 - **Dot Clock by Vendian**
 This example uses one dot to represent every second in the day:
@@ -64,15 +65,10 @@ This example uses one dot to represent every second in the day:
 
 ## Time and Labor in Art
 
-Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  
-<iframe src="https://player.vimeo.com/video/11164881" width="720" height="405" frameborder="0" allowfullscreen></iframe>
-
-**TEHCHING HSIEH** is a pioneer performance artist who has long explored time.  
-[Official Website](https://www.tehchinghsieh.com/)
-
-<iframe title="YouTube video player" src="https://www.youtube.com/embed/FsF-4UJjTaQ" width="560" height="315" frameborder="0" allowfullscreen></iframe>
-
-![Tehching Hsieh](https://932762.smushcdn.com/603464/wp-content/uploads/2017/08/Tehching-530x275.jpg?lossy=0&strip=1&webp=1)
+- Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  [Video documentation is here.](https://player.vimeo.com/video/11164881) 
+![sweeper](time-assets/sweeper.jpg)
+- **TEHCHING HSIEH** is a pioneer performance artist who has long explored time. [See his official Website](https://www.tehchinghsieh.com/) or [video on his work.](https://www.youtube.com/embed/FsF-4UJjTaQ).
+![Teching](time-assets/Tehching.jpg)His Time Clock Piece (One Year Performance 1980-1981) is a durational performance of Hsieh punching time cards into an industrial time-clock everyday on the hour for one year. Hsieh’s performance took place privately in his small New York studio, and was documented with a 16mm film camera, positioned ahead of Hsieh and the industrial time-clock. On every hour when Hsieh punches the time-clock, a single frame is taken on the film, amounting to 24 stills a day and 8760 in a year. The stills were compressed into a 6 minute silent time-lapse film, flashing 24 frames per second, a direct correspondence to the cultural measure of time. 
 
 **Felix Gonzalez-Torres: ["Untitled" (Perfect Lovers) 1991](https://www.moma.org/collection/works/81074)**
 
