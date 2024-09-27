@@ -26,19 +26,19 @@ The introduction of railways across Europe and the USA in the 1800s created a ne
 
 ![Railways Time Sync](https://i2.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-2.45.47-PM.png)
 
-Today, computer networks continue to drive the development of technologies to synchronize time more precisely.
+Today, computer networks continue to drive the development of technologies to synchronize time more precisely, for example Google's spanner is a technology to deal with time and synchronicity in large-scale, network-distributed databases. For more on this, see [this essay by media artist Brian House.](https://observatory.constantvzw.org/documents/brian_house_synchronizing_uncertainty.pdf).
 
 ![Computer Network Sync](https://i1.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-2.47.01-PM.png)
 
 ## Different Design Approaches to Time
 
-Time zones clock:
+Time zones clock displays time across geography.
 
 ![Time Zones Clock](https://i1.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/dzn_The-bend-hand-10.jpg)
 
 [Source](http://www.dezeen.com/2010/07/26/the-bent-hands-by-giha-woo-and-shingoeun/)
 
-Knitting Clock:
+Knitting Clock displays time as a 3d tangible knitted form:
 
 ![Knitting Clock](https://i2.wp.com/www.courses.tegabrain.com/PVA15/wp-content/uploads/2015/10/Elise-1.jpg)
 
@@ -46,29 +46,23 @@ Knitting Clock:
 
 ## Software Clocks
 
-**John Maeda 12 o’clocks**
-
+- **John Maeda 12 o’clocks**
+John Maeda famously creates some early software clocks that have now ported to p5 js thanks to Shiffman and community. [See the code here.](https://codingtrain.github.io/12oclocks/)
 ![John Maeda Clock](time-assets/maeda-all.gif)
   <img src="http://cmuems.com/2016/60212/wp-content/uploads/2016/09/maeda-09.gif" width="200" />
+[More info on this work](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
 
-[More Info](http://cmuems.com/2016/60212/lectures/lecture-09-09b-clocks/maedas-clocks/)  
-[Thank you Shiffman & community for porting these clocks](https://codingtrain.github.io/12oclocks/)
-
-**[Dot Clock](http://www.vendian.org/envelope/dir2/day_of_dots_clock/?do=01:51:25), by Vendian**
-
+- **Dot Clock by Vendian**
 This example uses one dot to represent every second in the day:
-
 ![Dot Clock](https://wp.nyu.edu/creativecodings22/wp-content/uploads/sites/23499/2022/02/Screen-Shot-2022-02-27-at-9.44.49-PM-1024x353.png)
 
-**Last Clock**  
-<iframe src="https://player.vimeo.com/video/27975734" width="720" height="405" frameborder="0" allowfullscreen></iframe>
-
-Another clock, **[All the Minutes](http://alltheminutes.com/)**, is comprised of tweets about the current time.
-
-Sam Lavigne is known for his political art.  
+- **Last Clock**  
+<a href="https://player.vimeo.com/video/27975734" width="720" height="405" frameborder="0" allowfullscreen>The last clock</a> uses a technique called [slit scanning](https://www.youtube.com/watch?v=YqVbuMPIRwY) to make a clock out of camera pixels taken at a frequency of seconds, minutes and hours.
+- This twitter clock, **[All the Minutes](http://alltheminutes.com/)**, that is now retired of course, was comprised of tweets about the current time.
+- Sam Lavigne is an artist known for his political art, makes a clock that counts the time served by the prison population in the USA.  
 [21092 Millennia, 8 Centuries, 49 Years](https://lav.io/projects/21092-millennia-8-centuries-49-years)
 
-## Time and Art
+## Time and Labor in Art
 
 Here’s **[Sweeper Clock](http://dezeen.com/2009/06/07/sweeper-clock-by-maarten-baas/)** by Maarten Bas, a movie featuring two men with brooms pushing lines of debris to form moving clock hands.  
 <iframe src="https://player.vimeo.com/video/11164881" width="720" height="405" frameborder="0" allowfullscreen></iframe>
